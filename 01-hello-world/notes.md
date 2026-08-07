@@ -20,3 +20,9 @@ See `hello.c` in this folder for the code.
 ## How to run it
 1. Open a terminal in this folder
 2. Compile it:
+3.  Run it:
+4.  You should see: `Hello, World!`
+
+## Exercise
+Try changing the text inside the quotes to print your own message, 
+then compile and run it again.
