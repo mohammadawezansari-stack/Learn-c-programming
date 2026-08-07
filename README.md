@@ -17,7 +17,7 @@ gcc filename.c -o output
 - [02 - Variables and Data Types](./02-variables)
 - [03 - Operators](./03-operators)
 - [04 - Conditionals](./04-conditionals)
-
+- [05 - Loops](./05-loops)
 
 ## Requirements
 - A C compiler (gcc). 
