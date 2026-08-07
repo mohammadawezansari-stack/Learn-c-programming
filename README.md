@@ -18,6 +18,7 @@ gcc filename.c -o output
 - [03 - Operators](./03-operators)
 - [04 - Conditionals](./04-conditionals)
 - [05 - Loops](./05-loops)
+- [06 - Functions](./06-functions)
 
 ## Requirements
 - A C compiler (gcc). 
