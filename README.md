@@ -22,7 +22,7 @@ gcc filename.c -o output
 - [07 - Arrays](./07-arrays)
 - [08 - Strings](./08-strings)
 - [09 - Pointers](./09-pointers)
-
+- [10 - Pointers and Arrays](./10-pointers-arrays)
 
 
 
