@@ -15,6 +15,7 @@ gcc filename.c -o output
 ## Lessons
 - [01 - Hello World](./01-hello-world)
 - [02 - Variables and Data Types](./02-variables)
+- [03 - Operators](./03-operators)
 
 ## Requirements
 - A C compiler (gcc). 
