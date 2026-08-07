@@ -16,6 +16,8 @@ gcc filename.c -o output
 - [01 - Hello World](./01-hello-world)
 - [02 - Variables and Data Types](./02-variables)
 - [03 - Operators](./03-operators)
+- [04 - Conditionals](./04-conditionals)
+
 
 ## Requirements
 - A C compiler (gcc). 
