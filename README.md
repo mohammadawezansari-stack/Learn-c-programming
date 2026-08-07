@@ -24,7 +24,7 @@ gcc filename.c -o output
 - [09 - Pointers](./09-pointers)
 - [10 - Pointers and Arrays](./10-pointers-arrays)
 - [11 - Dynamic Memory](./11-dynamic-memory)
-
+- [12 - Structs](./12-structs)
 
 ## Requirements
 - A C compiler (gcc). 
