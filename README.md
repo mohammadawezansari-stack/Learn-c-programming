@@ -36,3 +36,7 @@ gcc filename.c -o output
   - Windows: install MinGW
   - Mac: install Xcode command line tools
   - Linux: usually pre-installed, or `sudo apt install gcc`
+
+
+## License
+   This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
