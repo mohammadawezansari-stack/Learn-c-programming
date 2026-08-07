@@ -21,6 +21,10 @@ gcc filename.c -o output
 - [06 - Functions](./06-functions)
 - [07 - Arrays](./07-arrays)
 - [08 - Strings](./08-strings)
+- [09 - Pointers](./09-pointers)
+
+
+
 
 ## Requirements
 - A C compiler (gcc). 
