@@ -19,6 +19,8 @@ gcc filename.c -o output
 - [04 - Conditionals](./04-conditionals)
 - [05 - Loops](./05-loops)
 - [06 - Functions](./06-functions)
+- [07 - Arrays](./07-arrays)
+
 
 ## Requirements
 - A C compiler (gcc). 
