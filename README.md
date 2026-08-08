@@ -31,7 +31,7 @@ gcc filename.c -o output
 
 
 
-## Requirements:
+## Requirements
 - A C compiler (gcc).
 - Windows: install MinGW
 - Mac: install Xcode command line tools
