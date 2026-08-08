@@ -31,11 +31,11 @@ gcc filename.c -o output
 
 
 
-## Requirements
-- A C compiler (gcc). 
-  - Windows: install MinGW
-  - Mac: install Xcode command line tools
-  - Linux: usually pre-installed, or `sudo apt install gcc`
+## Requirements:
+- A C compiler (gcc).
+- Windows: install MinGW
+- Mac: install Xcode command line tools
+- Linux: usually pre-installed, or `sudo apt install gcc`
 
 
 ## License
